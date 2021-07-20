@@ -1,0 +1,10 @@
+site_name: napari-manual-stack-project
+site_description: Manual projection of 3D stacks to 2D using points placed on stack
+site_author: John Fozard
+
+theme: readthedocs
+
+repo_url: https://github.com/jfozard/napari-manual-stack-project
+
+pages:
+- Home: index.md
